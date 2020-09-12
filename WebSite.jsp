@@ -26,9 +26,7 @@
            }
        
         %>
-        <%
-            }
-        %>
+
        
        
         <form name="form1" method="get">
