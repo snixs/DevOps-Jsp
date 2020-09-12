@@ -1,38 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@snixs 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-snixs
-/
-Tomcat-Application
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Tomcat-Application/hello-world.jsp
-@snixs
-snixs Update hello-world.jsp
-Latest commit 8a8a7d3 10 minutes ago
- History
- 1 contributor
-59 lines (56 sloc)  1.93 KB
-  
 <%@ page language="java"%>
 <html>
     <head>
@@ -92,15 +57,3 @@ Latest commit 8a8a7d3 10 minutes ago
         </form>
     </body>
 </html>
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
