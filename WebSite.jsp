@@ -4,7 +4,7 @@
         <title>Using Multiple Forms</title>
     </head>
     <body>
-        <h1>Using Multiple Forms</h1>
+        <h1>Using Multiple</h1>
         <%
             if(request.getParameter("button") != null) {
         %>
